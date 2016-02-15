@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding="utf-8"?>
+<toc version="2.0">
+
+    <tocitem target="testtoolbox.html">Test Toolbox
+        <tocitem target="scriptlist.html">Scripts 
+            <tocitem target="script1.html">Script 1</tocitem>
+		</tocitem>
+        <tocitem target="functionlist.html">Functions 
+            <tocitem target="function1.html">Function 1</tocitem>
+        </tocitem>
+    </tocitem>
+</toc>
