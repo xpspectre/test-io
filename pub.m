@@ -9,7 +9,7 @@ opts = [];
 opts.outputDir = [current_path '/Docs/html'];
 
 %% Publish docs (meta-document-specific pages)
-docsBase = 'Docs/';
+docsBase = 'Docs/html/';
 docs = {'testtoolbox'};
 
 for i = 1:numel(docs)
